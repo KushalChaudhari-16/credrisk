@@ -130,7 +130,7 @@ Training Results:
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/credrisk.git
+git clone https://github.com/KushalChaudhari-16/credrisk.git
 cd credrisk/Backend
 
 # Create virtual environment
